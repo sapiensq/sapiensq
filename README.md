@@ -2,7 +2,7 @@
 
 # Seong-Hoon Kim · 김성훈
 
-**Economist turned founder** · Founder & CEO of [SapiensQ](https://sapiensq.com)
+**Economist turned founder** · Co-founder & CEO of [SapiensQ](https://sapiensq.com)
 
 [sapiensq.com](https://sapiensq.com) · [finance90.ai](https://finance90.ai) · [LinkedIn](https://www.linkedin.com/in/12001st) · [ORCID](https://orcid.org/0000-0002-7322-7471)
 
@@ -12,13 +12,11 @@
 
 ### The missing third leg
 
-I spent over a decade as an economist trying to understand why economies break. My research was centered on the causes of business cycles and their amplification mechanisms, particularly the roles of **misperception and mispricing** therein.
+For more than a decade I researched and taught macroeconomics and international finance at Birkbeck, LSE, St Andrews and Yonsei, trying to understand why economies break: the causes of business cycles and their amplification mechanisms, particularly the roles of **misperception and mispricing**.
 
-Along the way, something kept bothering me. The natural sciences have three tools: **theory, observation, and experiment**. The social sciences have only had two. We could model a crisis, and we could study one after it happened, but we could never run one. The third leg was missing, and its absence quietly shaped everything we thought we knew.
+Along the way, one gap kept bothering me. The natural sciences have three tools, **theory, observation and experiment**; the social sciences have had only two. We could model a crisis and study one after it happened, but we could never run one. Large language models change that: they can instantiate minds that reason in natural language, carry memory, reflect and form relationships, simulated rather than stipulated.
 
-LLMs changed the arithmetic. For the first time, we can instantiate minds that reason in natural language, carry memory, reflect, and form relationships, not by stipulating behavior, but by simulating it. The missing third leg is finally within reach.
-
-So I left academia to build what I couldn't stop thinking about.
+In December 2025 I left academia and co-founded **SapiensQ** to build that missing third leg: societies of decision-makers, grounded in the record and checked against real outcomes. The questions are the ones I have always asked; the tools, and the pace, are new.
 
 ---
 
@@ -82,13 +80,11 @@ The thread from then to now: the 2012 paper models agents who act on beliefs abo
 
 ### 빠져 있던 세 번째 다리
 
-10년 넘게 경제학자로서 경제가 왜 무너지는지를 이해하려 했습니다. 경기변동의 원인과 그 증폭 메커니즘, 특히 그 안에서 **잘못된 인식과 잘못된 가격**이 하는 역할이 제 연구의 중심이었습니다.
+10년 넘게 버크벡, LSE, 세인트앤드루스, 연세대에서 거시경제학과 국제금융을 연구하고 가르치며, 경제가 왜 무너지는지를 이해하려 했습니다. 경기변동의 원인과 그 증폭 메커니즘, 특히 그 안에서 **잘못된 인식과 잘못된 가격**이 하는 역할이 연구의 중심이었습니다.
 
-그러다 계속 마음에 걸리는 것이 있었습니다. 자연과학에는 **이론, 관찰, 실험**이라는 세 가지 도구가 있습니다. 사회과학에는 두 가지뿐이었습니다. 위기를 모형으로 만들 수 있었고, 위기가 지난 뒤 연구할 수는 있었지만, 위기를 직접 돌려볼 수는 없었습니다. 세 번째 다리가 빠져 있었고, 그 부재가 우리가 안다고 믿었던 모든 것을 조용히 규정해 왔습니다.
+그 과정에서 계속 마음에 걸리는 빈자리가 있었습니다. 자연과학에는 **이론, 관찰, 실험**이라는 세 가지 도구가 있지만, 사회과학에는 두 가지뿐이었습니다. 위기를 모형으로 만들 수 있었고 위기가 지난 뒤 연구할 수는 있었지만, 위기를 직접 돌려볼 수는 없었습니다. 대형 언어모델이 이를 바꿉니다. 자연어로 추론하고, 기억을 지니고, 성찰하고, 관계를 맺는 마음을, 행동을 미리 정해 두는 대신 시뮬레이션으로 만들어낼 수 있게 되었습니다.
 
-LLM이 셈법을 바꿨습니다. 처음으로, 자연어로 추론하고, 기억을 지니고, 성찰하고, 관계를 맺는 마음을 만들어낼 수 있게 되었습니다. 행동을 미리 정해 두는 것이 아니라 시뮬레이션함으로써. 빠져 있던 세 번째 다리가 마침내 손에 닿았습니다.
-
-그래서 학계를 떠나, 머릿속에서 떠나지 않던 것을 만들기로 했습니다.
+2025년 12월, 학계를 떠나 **사피엔스큐**를 공동 창업했습니다. 빠져 있던 세 번째 다리, 곧 기록에 근거하고 실제 결과로 검증되는 의사결정자들의 사회를 만들기 위해서입니다. 질문은 늘 해 오던 그 질문이고, 달라진 것은 도구와 속도입니다.
 
 ### 지금 · 사피엔스큐
 
